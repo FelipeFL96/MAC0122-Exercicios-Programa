@@ -1,0 +1,3260 @@
+
+///////////////////////
+Palavra 0!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+///////////////////////
+Palavra 1!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+///////////////////////
+Palavra 2!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+///////////////////////
+Palavra 3!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: a != d
+Inicio do bloco: 4
+Final do bloco : 6
+///////////////////////
+Palavra 4!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: m != l
+Inicio do bloco: 4
+Final do bloco : 6
+Bloco incompativel!
+ Dif: d != a
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+///////////////////////
+Palavra 5!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+///////////////////////
+Palavra 6!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Bloco incompativel!
+ Dif: m != t
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+///////////////////////
+Palavra 7!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Bloco incompativel!
+ Dif: m != r
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Bloco incompativel!
+ Dif: t != r
+Inicio do bloco: 5
+Final do bloco : 8
+///////////////////////
+Palavra 8!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+///////////////////////
+Palavra 9!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Bloco incompativel!
+ Dif: m != c
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Bloco incompativel!
+ Dif: t != c
+Inicio do bloco: 5
+Final do bloco : 8
+Bloco incompativel!
+ Dif: r != c
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+///////////////////////
+Palavra 10!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: a != e
+Inicio do bloco: 4
+Final do bloco : 6
+Bloco incompativel!
+ Dif: d != e
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Bloco incompativel!
+ Dif: a != e
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+///////////////////////
+Palavra 11!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+///////////////////////
+Palavra 12!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Bloco incompativel!
+ Dif: t != a
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+///////////////////////
+Palavra 13!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: m != i
+Inicio do bloco: 4
+Final do bloco : 6
+Bloco incompativel!
+ Dif: d != a
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Bloco incompativel!
+ Dif: l != i
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: e != a
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+///////////////////////
+Palavra 14!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Bloco incompativel!
+ Dif: a != o
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+///////////////////////
+Palavra 15!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Bloco incompativel!
+ Dif: o != u
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Bloco incompativel!
+ Dif: t != m
+Inicio do bloco: 5
+Final do bloco : 8
+Bloco incompativel!
+ Dif: r != m
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Bloco incompativel!
+ Dif: c != m
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+///////////////////////
+Palavra 16!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Bloco incompativel!
+ Dif: n != r
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+///////////////////////
+Palavra 17!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: m != b
+Inicio do bloco: 4
+Final do bloco : 6
+Bloco incompativel!
+ Dif: d != a
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Bloco incompativel!
+ Dif: l != b
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: e != a
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Bloco incompativel!
+ Dif: i != b
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+///////////////////////
+Palavra 18!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Tamanho diferente!
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+///////////////////////
+Palavra 19!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Bloco incompativel!
+ Dif: b != t
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Bloco incompativel!
+ Dif: b != t
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Tamanho diferente!
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 2
+Inicio do bloco: 0
+Final do bloco : 4
+///////////////////////
+Palavra 20!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Bloco incompativel!
+ Dif: t != a
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Bloco incompativel!
+ Dif: d != t
+Inicio do bloco: 6
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Tamanho diferente!
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 2
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 12
+///////////////////////
+Palavra 21!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: a != m
+Inicio do bloco: 4
+Final do bloco : 6
+Bloco incompativel!
+ Dif: d != m
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Bloco incompativel!
+ Dif: a != m
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: e != m
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Bloco incompativel!
+ Dif: a != m
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Bloco incompativel!
+ Dif: a != m
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 2
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 3
+Inicio do bloco: 1
+Final do bloco : 3
+///////////////////////
+Palavra 22!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Bloco incompativel!
+ Dif: b != m
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Bloco incompativel!
+ Dif: b != m
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Tamanho diferente!
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 2
+Inicio do bloco: 0
+Final do bloco : 4
+Bloco incompativel!
+ Dif: t != m
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+///////////////////////
+Palavra 23!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Bloco incompativel!
+ Dif: m != d
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Bloco incompativel!
+ Dif: t != d
+Inicio do bloco: 5
+Final do bloco : 8
+Bloco incompativel!
+ Dif: r != d
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Bloco incompativel!
+ Dif: c != d
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Bloco incompativel!
+ Dif: m != d
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Tamanho diferente!
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 2
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 12
+///////////////////////
+Palavra 24!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Bloco incompativel!
+ Dif: b != i
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Bloco incompativel!
+ Dif: b != i
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Tamanho diferente!
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 2
+Inicio do bloco: 0
+Final do bloco : 4
+Bloco incompativel!
+ Dif: t != i
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Bloco incompativel!
+ Dif: m != i
+Inicio do bloco: 9
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 4
+Inicio do bloco: 1
+Final do bloco : 5
+///////////////////////
+Palavra 25!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: a != b
+Inicio do bloco: 4
+Final do bloco : 6
+Bloco incompativel!
+ Dif: d != b
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Bloco incompativel!
+ Dif: a != b
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: e != b
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Bloco incompativel!
+ Dif: a != b
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Bloco incompativel!
+ Dif: a != b
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 2
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: m != b
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 4
+Inicio do bloco: 1
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 7
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 10
+///////////////////////
+Palavra 26!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Tamanho diferente!
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 2
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 4
+Inicio do bloco: 1
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 7
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 10
+Tamanho diferente!
+Inicio do bloco: 11
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 5
+Inicio do bloco: 0
+Final do bloco : 9
+///////////////////////
+Palavra 27!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: a != m
+Inicio do bloco: 4
+Final do bloco : 6
+Bloco incompativel!
+ Dif: d != m
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Bloco incompativel!
+ Dif: a != m
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: e != m
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Bloco incompativel!
+ Dif: a != m
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Bloco incompativel!
+ Dif: a != m
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 2
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: o != s
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 4
+Inicio do bloco: 1
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 7
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 10
+Bloco incompativel!
+ Dif: b != m
+Inicio do bloco: 11
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 5
+Inicio do bloco: 0
+Final do bloco : 9
+Tamanho diferente!
+Inicio do bloco: 10
+Final do bloco : 12
+///////////////////////
+Palavra 28!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: a != i
+Inicio do bloco: 4
+Final do bloco : 6
+Bloco incompativel!
+ Dif: d != i
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Bloco incompativel!
+ Dif: a != i
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: e != i
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Bloco incompativel!
+ Dif: a != i
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Bloco incompativel!
+ Dif: a != i
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 2
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: m != i
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 4
+Inicio do bloco: 1
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 7
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 10
+Bloco incompativel!
+ Dif: b != i
+Inicio do bloco: 11
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 5
+Inicio do bloco: 0
+Final do bloco : 9
+Tamanho diferente!
+Inicio do bloco: 10
+Final do bloco : 12
+Bloco incompativel!
+ Dif: m != i
+------------------------
+Coluna: 6
+Inicio do bloco: 1
+Final do bloco : 3
+///////////////////////
+Palavra 29!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: a != e
+Inicio do bloco: 4
+Final do bloco : 6
+Bloco incompativel!
+ Dif: d != e
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Bloco incompativel!
+ Dif: a != e
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: t != s
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Bloco incompativel!
+ Dif: a != e
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Bloco incompativel!
+ Dif: a != e
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 2
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: m != e
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 4
+Inicio do bloco: 1
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 7
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 10
+Bloco incompativel!
+ Dif: b != e
+Inicio do bloco: 11
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 5
+Inicio do bloco: 0
+Final do bloco : 9
+Tamanho diferente!
+Inicio do bloco: 10
+Final do bloco : 12
+Bloco incompativel!
+ Dif: m != e
+------------------------
+Coluna: 6
+Inicio do bloco: 1
+Final do bloco : 3
+Bloco incompativel!
+ Dif: i != e
+Inicio do bloco: 5
+Final do bloco : 7
+///////////////////////
+Palavra 30!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Bloco incompativel!
+ Dif: b != n
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Bloco incompativel!
+ Dif: b != n
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Tamanho diferente!
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 2
+Inicio do bloco: 0
+Final do bloco : 4
+Bloco incompativel!
+ Dif: t != n
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Bloco incompativel!
+ Dif: m != n
+Inicio do bloco: 9
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 4
+Inicio do bloco: 1
+Final do bloco : 5
+Bloco incompativel!
+ Dif: i != n
+Inicio do bloco: 6
+Final do bloco : 7
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 10
+Tamanho diferente!
+Inicio do bloco: 11
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 5
+Inicio do bloco: 0
+Final do bloco : 9
+Tamanho diferente!
+Inicio do bloco: 10
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 6
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 7
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 12
+///////////////////////
+Palavra 31!///////////////////////
+--------------------------
+Linha: 0
+Inicio do bloco: 2
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 1
+Inicio do bloco: 0
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 2
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 4
+Inicio do bloco: 0
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 5
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 6
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 3
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 7
+Inicio do bloco: 1
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 8
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 9
+Inicio do bloco: 0
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 10
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 8
+Tamanho diferente!
+--------------------------
+Linha: 11
+Inicio do bloco: 1
+Final do bloco : 8
+Tamanho diferente!
+------------------------
+Coluna: 0
+Inicio do bloco: 1
+Final do bloco : 2
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 11
+Tamanho diferente!
+------------------------
+Coluna: 1
+Inicio do bloco: 1
+Final do bloco : 12
+Bloco incompativel!
+ Dif: e != r
+------------------------
+Coluna: 2
+Inicio do bloco: 0
+Final do bloco : 4
+Tamanho diferente!
+Inicio do bloco: 5
+Final do bloco : 6
+Tamanho diferente!
+Inicio do bloco: 7
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 3
+Inicio do bloco: 1
+Final do bloco : 3
+Tamanho diferente!
+Inicio do bloco: 4
+Final do bloco : 8
+Tamanho diferente!
+Inicio do bloco: 9
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 4
+Inicio do bloco: 1
+Final do bloco : 5
+Tamanho diferente!
+Inicio do bloco: 6
+Final do bloco : 7
+Tamanho diferente!
+Inicio do bloco: 8
+Final do bloco : 10
+Tamanho diferente!
+Inicio do bloco: 11
+Final do bloco : 12
+Tamanho diferente!
+------------------------
+Coluna: 5
+Inicio do bloco: 0
+Final do bloco : 9
+Tamanho diferente!
+Inicio do bloco: 10
+Final do bloco : 12
+Tamanho diferente!
+------------------------
